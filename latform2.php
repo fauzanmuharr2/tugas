@@ -31,7 +31,7 @@ checked>Bahasa Inggris
 checked>Pendidikan Agama Islam<br></td></tr>
 <tr><td>Total Nilai Ijasah SMK</td><td><input type="number" name="tn" requid><br></td></tr>
 <tr><td>Email</td><td><input type="email" name="email" requid><br></td></tr>
-<tr><td> <input type="submit" name"imput" value="Masukan Data"></td></tr>
+<tr><td> <input type="submit" name="imput" value="Masukan Data"></td></tr>
 </table>
 </FORM>
 </body>
