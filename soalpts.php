@@ -1,6 +1,7 @@
 <html>
 <head><title>Soal PTS</title></head>
 <body>
+<fieldset>
 <FORM ACTION="soalptspros.php" METHOD="POST" NAME="input">
 <center><h1>Penggajian</h1></center>
 <table>
@@ -37,5 +38,6 @@
 <tr><td> <input type="submit" name="input" value="Masukan Data"></td></tr>
 </table>
 </FORM>
+</fieldset>
 </body>
 </html>
